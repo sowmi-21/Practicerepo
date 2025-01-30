@@ -1,10 +1,15 @@
+
 package sort;
 
 public class BubbleSort {
+	public void run()
+	{
+		
+	}
 	public static void main(String[] args) {
 		//int n=5;
-		int arr[]= {2,21,8,9,12,5
-				,29};
+		int arr[]= {2,21,8,9,12,5,29};
+		
 		int temp=0;
 		for(int i=0; i<arr.length; i++)
 		{
